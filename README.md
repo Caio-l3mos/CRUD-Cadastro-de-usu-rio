@@ -1,1 +1,6 @@
-# CRUD-Cadastro-de-usu-rio
+# CRUD-Cadastro-de-usua-rio
+
+
+
+
+CRUD criado na lingagem JAVA, utilizando spring boot e lombok, utilizamos do modelo de camada simples, e  banco de dados h2.
